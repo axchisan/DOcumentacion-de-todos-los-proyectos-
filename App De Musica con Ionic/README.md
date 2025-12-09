@@ -1,0 +1,27 @@
+# axchisan-Aplicación-musical-Ionic-DeepWiki
+
+## Content Index
+
+- [Overview](Overview.md)
+- [Application-Architecture](Application-Architecture.md)
+- [Application-Bootstrap](Application-Bootstrap.md)
+- [Application-Shell](Application-Shell.md)
+- [Routing-and-Navigation](Routing-and-Navigation.md)
+- [Features-and-Pages](Features-and-Pages.md)
+- [Página-de-inicio-Lista-de-grupos](Página-de-inicio-Lista-de-grupos.md)
+- [Data-Layer](Data-Layer.md)
+- [Data-Models](Data-Models.md)
+- [Music-Service](Music-Service.md)
+- [Mock-API-and-Development-Data](Mock-API-and-Development-Data.md)
+- [Build-System-and-Configuration](Build-System-and-Configuration.md)
+- [Angular-Build-Configuration](Angular-Build-Configuration.md)
+- [Dependencies-and-Package-Management](Dependencies-and-Package-Management.md)
+- [Environment-Configuration](Environment-Configuration.md)
+- [Capacitor-and-Native-Integration](Capacitor-and-Native-Integration.md)
+- [Development-Tools-and-Workflow](Development-Tools-and-Workflow.md)
+- [Code-Quality-and-Linting](Code-Quality-and-Linting.md)
+- [Testing-Infrastructure](Testing-Infrastructure.md)
+- [VS-Code-Integration](VS-Code-Integration.md)
+- [Browser-Compatibility](Browser-Compatibility.md)
+- [Version-Control-Configuration](Version-Control-Configuration.md)
+- [Static-Assets-and-Resources](Static-Assets-and-Resources.md)
