@@ -8,7 +8,7 @@
 **Vélez, Santander**
 
 **Programa de Formación:** Tecnólogo en Análisis y Desarrollo de Software  
-**Código del Programa:** 228118  
+**Numero de Ficha:** 2931558  
 **Ficha de Formación:** ADSO
 
 **Presentado por:**  
@@ -2043,7 +2043,7 @@ Gamma, E., Helm, R., Johnson, R., & Vlissides, J. (1994). *Design Patterns: Elem
 
 ### 8.7 Recursos Institucionales
 
-SENA. (2024). *Programa de Formación: Tecnología en Análisis y Desarrollo de Software*. Código 228118.
+SENA. (2024). *Programa de Formación: Tecnología en Análisis y Desarrollo de Software*. FIcha 2931558.
 
 SENA. (2024). *Guía de Aprendizaje: Informe de Requisitos de Software*. GFPI-F-135 V04.
 
@@ -2059,7 +2059,7 @@ Gerardo Andrés Ardila Jerez
 
 **Programa:**  
 Tecnología en Análisis y Desarrollo de Software (ADSO)  
-Código: 228118
+Ficha: 2931558
 
 **Institución:**  
 Servicio Nacional de Aprendizaje (SENA)  
